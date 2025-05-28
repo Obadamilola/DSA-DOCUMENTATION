@@ -13,6 +13,7 @@ Data analysis is the process of examining and interpreting data to discover patt
 - - For Data Cleaning
 - - For Data Collection
     1. code
+    2. photos
 - SQL
 - Power Bi
 - Ms power point  
